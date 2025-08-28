@@ -1,0 +1,12 @@
+transformers
+datasets
+numpy
+jsonlines
+omegaconf
+wandb
+bitsandbytes
+accelerate
+orjson
+zstandard
+safetensors
+watchdog
